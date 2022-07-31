@@ -1,1 +1,1 @@
-# pixi-tiled
+# pixi-tiled-loader
